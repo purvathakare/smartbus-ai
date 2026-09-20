@@ -1,6 +1,6 @@
-# SmartBus AI — Vercel Edition
+# SmartBus AI 
 
-Vercel-native React/Vite demonstration of a Smart School Bus Tracking System using an agentic workflow.
+Vite demonstration of a Smart School Bus Tracking System using an agentic workflow.
 
 ## Local UI
 ```bash
